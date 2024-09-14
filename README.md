@@ -8,12 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=amelia-blackheart&style=flat-square&color=blue" alt=""/>
 </div>
 
-## ✌ Hello, World!
-<div align="justify">
-  <p>My name is Amelia. I was working as a lawyer for 5 years. I began my career as a paralegal and ended it as a top-notch personal and coprorate bankruptcy practicioner. I believed the law was my calling, but I discovered passion for programming, which I enjoy so far!</p>
-  <p>I have a wide range of interests and I like to try myself in different areas, learn something new that I can later apply in my projects.</p>
-</div>
-
 ##
 <div align="center">
   <object>
